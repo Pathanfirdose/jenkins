@@ -34,7 +34,7 @@ pipeline {
         }
     }
 
-    // post build comments
+    // post build 
     post {
         always {
             echo 'i will say hello always'
